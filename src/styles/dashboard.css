@@ -1,0 +1,7 @@
+.dash {
+    background: rgb(238,174,202);
+    background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(226,176,237,0.692612079011292) 51%, rgba(224,233,148,0.2976540958180147) 100%);
+    background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(226,176,237,0.692612079011292) 51%, rgba(224,233,148,0.2976540958180147) 100%);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(226,176,237,0.692612079011292) 51%, rgba(224,233,148,0.2976540958180147) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#e0e994",GradientType=1);
+}
